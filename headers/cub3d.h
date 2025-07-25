@@ -25,6 +25,18 @@
 # ifndef BUFFER_SIZE
 #  define BUFFER_SIZE 10
 # endif
+
+// these are for linux
+//# define ESC 65307
+//# define W 119
+//# define S 115
+//# define A 97
+//# define D 100
+//# define LEFT 65361
+//# define RIGHT 65363
+//# define SPACE 32
+
+// these for Mac
 # define W      13
 # define A      0
 # define S      1
@@ -34,7 +46,6 @@
 # define DOWN   125
 # define UP     126
 # define SPACE  49
-
 # define ESC 53
 
 # define PI      3.14159265359

@@ -1,5 +1,5 @@
 
-# Project Title
+# About The Project
 
 Cub3D is a 3D game or rather a 2D game that uses the reycastig concept to transform to a 3D game, which is the Goal of this project in 42 CC.
 ## Authors

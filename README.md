@@ -7,7 +7,7 @@ Cub3D is a 3D game or rather a 2D game that uses the reycastig concept to transf
 
 On 1337 MacOS minilibx already exist so just:
 
-Run: Make && ./executable mapPath (./cub3D maps/map.cub).
+    Make && ./executable mapPath (./cub3D maps/map.cub).
 
 on linux or your own machine download minilibx then:
 

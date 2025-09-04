@@ -27,7 +27,7 @@ on linux or your own machine download minilibx then:
 
 4- Using the DDA algorithm to calculate the distance of the rays.
 
-5- Finally we use that distance we got to put the pixels and the textures.
+5- Finally use that distance you got to put the pixels.
 
 
 

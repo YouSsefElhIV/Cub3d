@@ -1,3 +1,4 @@
+![Screenshot](images/cub3d.webp)
 
 # About The Project
 
